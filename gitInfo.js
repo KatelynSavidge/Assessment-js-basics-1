@@ -10,6 +10,7 @@
 */
 
 //CODE HERE
+let gitDefinition = "Git is a version control system that allows you to track and organize code, prevents bugs and view the history of your projects."
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -18,6 +19,7 @@
 */
 
 //CODE HERE
+let gitHubDefinition = 'GitHub is a website for people to host code. It helps you track and organize your projects especially while working with others.'
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -26,6 +28,7 @@
 */
 
 //CODE HERE
+let gitInitDefinition = 'It creates a new git repository for your code'
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -34,6 +37,7 @@
 */
 
 //CODE HERE
+let gitCloneDefinition = 'It navigates to an existing repository and makes a copy of it in a new location.'
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -42,6 +46,7 @@
 */
 
 //CODE HERE
+let gitStatusDefinition = 'Displays the current state of the repository and allows you to see tracked or untracked changes'
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -53,6 +58,9 @@
 */
 
 //CODE HERE
+let gitAddDefinition = 'adds chnages in the projects to the staging area'
+
+let gitAddCode = 'git add .'
 
 //////////////////PROBLEM 7////////////////////
 /*
@@ -64,6 +72,9 @@
 */
 
 //CODE HERE
+let gitCommitDefinition = 'Captures a snapshot of the project"s current changes'
+
+let gitCommitCode = "git commit -m 'create title'"
 
 
 //////////////////PROBLEM 8////////////////////
@@ -73,3 +84,4 @@
 */
 
 //CODE HERE
+let gitPushDefinition = 'transfers new commits to the existing repository'

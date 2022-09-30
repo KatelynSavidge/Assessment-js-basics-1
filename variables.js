@@ -15,7 +15,7 @@ let faveNum = '8'
 
 //CODE HERE
 let lovesCode = true
-
+//console.log(lovesCode)
 //////////////////PROBLEM 4////////////////////
 /*
   Write an if-statement that checks if the faveNum variable is 
@@ -36,6 +36,6 @@ if (faveNum === 13) {
 */
 
 //CODE HERE
-for (i=0; i<5; i++) {
+for (let i=0; i<5; i++) {
   console.log(faveNum)
 }
