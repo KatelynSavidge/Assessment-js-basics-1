@@ -118,8 +118,12 @@ let acresLeft = 174
 let days = 0
 
 // CODE HERE
+while (acresLeft > days) {
+    days++
+    acresLeft - averageDailyAcres
+}
 
-
+//console.log(days)
 
 // PROBLEM 4
 
@@ -147,13 +151,15 @@ let days = 0
 
 // CODE HERE
 
-// let fujiTons =
-// let galaTons =
-// let pinkTons =
+let fujiTons = []
+let galaTons = []
+let pinkTons = []
+
+fujiTons = fujiAcres.slice(0) 
 
 
 
-
+//console.log(fujiTons)
 
 
 // PROBLEM 5
